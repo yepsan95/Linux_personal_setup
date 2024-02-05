@@ -26,7 +26,7 @@ Execute this script to install the necessary programs for this setup.
 Execute this script to install the setup.
 
 	- Copies .bashrc to home directory
-	- Copies __.vimrc to home directory
+	- Copies .vimrc to home directory
 	- Copies .vim directory to home directory
 	- Sources ~/.bashrc from the home directory
 
