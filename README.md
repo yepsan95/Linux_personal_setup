@@ -10,25 +10,25 @@ This setup works for __Ubuntu 20.04__.
 Execute this script to install the necessary programs for this setup.
 
 	- Installs basic programs:
-		- __vim__
-		- __bat__
-		- __neofetch__
-		- __python3__
-		- __pycodestyle__
-		- __mysql-server__
-		- __gnupg__
-		- __curl__
-	- Installs __MongoDB__
-	- Installs __LF__ file manager
+		- vim
+		- bat
+		- neofetch
+		- python3
+		- pycodestyle
+		- mysql-server
+		- gnupg
+		- curl
+	- Installs MongoDB
+	- Installs LF file manager
 
 ### `install_setup`
 
 Execute this script to install the setup.
 
-	- Copies __.bashrc__ to home directory
-	- Copies __.vimrc__ to home directory
-	- Copies __.vim__ directory to home directory
-	- Sources __~/.bashrc__ from the home directory
+	- Copies .bashrc to home directory
+	- Copies __.vimrc to home directory
+	- Copies .vim directory to home directory
+	- Sources ~/.bashrc from the home directory
 
 ## Files and directories
 
@@ -44,7 +44,7 @@ Vim main config file.
 
 Vim main directory for config files.
 
-	- __colors__
+	- colors
 		vim color themes files
-	- __templates__
+	- templates
 		vim templates files
