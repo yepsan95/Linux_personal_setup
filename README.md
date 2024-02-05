@@ -1,16 +1,13 @@
 # Linux Personal Setup
 This is a repository for my personal Linux configuration.
 
+This setup works for *Ubuntu 20.04*.
+
 ## Bash scripts
 
-### `install\_setup`
+### `install_programs`
 
-	- Copies `.bashrc` to home directory
-	- Copies `.vimrc` to home directory
-	- Copies `.vim` directory to home directory
-	- Sources `~/.bashrc` from the home directory
-
-### `install\_programs`
+Execute this script to install the necessary programs for this setup.
 
 	- Installs basic programs:
 		- vim
@@ -23,6 +20,15 @@ This is a repository for my personal Linux configuration.
 		- curl
 	- Installs `MongoDB`
 	- Installs `LF` file manager
+
+### `install_setup`
+
+Execute this script to install the setup.
+
+	- Copies `.bashrc` to home directory
+	- Copies `.vimrc` to home directory
+	- Copies `.vim` directory to home directory
+	- Sources `~/.bashrc` from the home directory
 
 ## Files and directories
 
