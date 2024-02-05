@@ -89,11 +89,11 @@ fi
 
 # some more ls aliases
 alias ls='ls --color=auto'
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
+alias ll='ls -alF --color=auto'
+alias la='ls -A --color=auto'
+alias l='ls -CF --color=auto'
 alias c='clear'
-alias cll='clear && ls -alF'
+alias cll='clear && ls -alF --color=auto'
 alias pycode='pycodestyle'
 alias bat='batcat'
 alias pd='pd.exe'
