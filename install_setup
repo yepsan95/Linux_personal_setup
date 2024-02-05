@@ -2,4 +2,3 @@
 cp .bashrc .vimrc $HOME
 cp -r .vim $HOME
 source ~/.bashrc
-source ~/.vimrc
