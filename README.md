@@ -36,6 +36,8 @@ Vim main config file.
 
 ### `.vim`
 
+Vim main directory for config files.
+
 	- `colors`
 		vim color themes files
 	- `templates`
