@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/mnt/d/Holberton/Git/holbertonschool-web_back_end/NoSQL/dump/logs'
+let g:netrw_dirhist_8='/mnt/d/Holberton/Git/holbertonschool-AirBnB_clone_v2/models/engine'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_5='/home/bryan'
+let g:netrw_dirhist_4='/home/bryan/Downloads'
+let g:netrw_dirhist_3='/home/bryan'
+let g:netrw_dirhist_2='/home/bryan/go'
+let g:netrw_dirhist_1='/home/bryan'
+let g:netrw_dirhist_0='/mnt/d/Holberton/Git/holbertonschool-AirBnB_clone_v2/web_flask'
